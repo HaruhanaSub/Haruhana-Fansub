@@ -38,10 +38,10 @@
 | 2021年01月 | ホリミヤ<br>Horimiya                                         | 堀与宫村                                                     | [Download]() |
 | 2021年01月 | 約束のネバーランド S2<br>Yakusoku no Neverland S2            | 约定的梦幻岛 S2<br>The Promised Neverland S2                 | [Download]() |
 | 2021年04月 | 聖女の魔力は万能です<br>Seijo no Maryoku wa Bannou Desu      | 圣女魔力无所不能<br>The Saint`s Magic Power Is Omnipotent    | [Download]() |
-| 2021年04月 | 不滅のあなたへ<br>Fumetsu no Anata e                         | 致不灭的你<br>To Your Eternity                               |              |
-| 2021年07月 | 白い砂のアクアトープ<br>Shiroi Suna no Aquatope              | 白沙的水族馆（白沙上的碧水生境）<br>The Aquatope on White Sand |              |
-| 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           |              |
-| 2021年10月 | かぎなど<br>Kaginado                                         | 键的嘉年华（键等）                                           |              |
+| 2021年04月 | 不滅のあなたへ<br>Fumetsu no Anata e                         | 致不灭的你<br>To Your Eternity                               | [Download]() |
+| 2021年07月 | 白い砂のアクアトープ<br>Shiroi Suna no Aquatope              | 白沙的水族馆（白沙上的碧水生境）<br>The Aquatope on White Sand | [Download]() |
+| 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           | [Download]() |
+| 2021年10月 | かぎなど<br>Kaginado                                         | 键的嘉年华（键等）                                           | [Download]() |
 |            |                                                              |                                                              |              |
 
 ### <span id="Movie"> 剧场版</span></span>
@@ -49,6 +49,7 @@
 | 公映时间   | 日文名（罗马音）                                             | 中文名（英文名）                                             | 字幕下载     |
 | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------- |
 | 2007年02月 | 銀河鉄道の夜<br>Ginga Tetsudou no Yoru                       | 银河铁道之夜<br>The Celestial Railroad                       | [Download]() |
+| 2016年01月 | ガラスの花と壊す世界<br>Glass no Hana to Kowasu Sekai        | 玻璃之花与崩坏的世界<br>Garakowa: Restore the World          | [Download]() |
 | 2016年09月 | planetarian：星の人<br>Planetarian: Hoshi no Hito            | 星之梦系列：星之人                                           | [Download]() |
 | 2018年02月 | さよならの朝に約束の花をかざろう<br>Sayonara no Asa ni Yakusoku no Hana o Kazarou | 朝花夕誓：让誓约的花儿点缀起离别的晨曦<br>Maquia: When the Promised Flower Blooms | [Download]() |
 | 2020年10月 | 鬼滅の刃 無限列車編<br>Kimetsu no Yaiba: Mugen Ressha Hen    | 鬼灭之刃：无限列车篇<br>Demon Slayer the Movie: Mugen Train  | [Download]() |
