@@ -16,7 +16,7 @@
 - <b>❀拨雪寻春（Haruhana Funsub）❀</b>公开分享的字幕，均为<b>❀适配BD的中日双语字幕❀</b>，均为<b>❀Ass特效字幕❀</b>；
 - 为正常显示字幕内容，请事先<b>❀安装相应字体❀</b>，并使用<b>[❀基于libass字幕滤镜的播放器❀](https://github.com/clsid2/mpc-hc/releases)；</b>
 - 请您自觉基于 <b>[❀权属声明❀](#License)</b> 确认使用情境，合理合法地利用我们的字幕；
-- 欢迎您通过 <b>[电子邮件](haruhanasub@gmail.com)</b> 或 <b>[Telegram]()</b> 向我们反馈各类错误或提出意见建议。
+- 欢迎您通过 <b>[电子邮件](haruhanasub@gmail.com)</b> 或 <b>[Telegram](https://t.me/Haruhana_Funsub)</b> 向我们反馈各类错误或提出意见建议。
 
 ## <span id="Title"> 番剧索引</span>
 
