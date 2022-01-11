@@ -13,7 +13,7 @@
 
 ## <span id="Instructions"> 使用说明</span>
 
-- <b>❀拨雪寻春（Haruhana Subs）❀</b>公开分享的字幕，均为<b>❀适配BD的中日双语字幕❀</b>，均为<b>❀Ass特效字幕❀</b>；
+- <b>❀拨雪寻春（Haruhana Funsub）❀</b>公开分享的字幕，均为<b>❀适配BD的中日双语字幕❀</b>，均为<b>❀Ass特效字幕❀</b>；
 - 为正常显示字幕内容，请事先<b>❀安装相应字体❀</b>，并使用<b>[❀基于libass字幕滤镜的播放器❀](https://github.com/clsid2/mpc-hc/releases)；</b>
 - 请您自觉基于 <b>[❀权属声明❀](#License)</b> 确认使用情境，合理合法地利用我们的字幕；
 - 欢迎您通过 <b>[电子邮件](haruhanasub@gmail.com)</b> 或 <b>[Telegram](https://t.me/Haruhana_Funsub)</b> 向我们反馈各类错误或提出意见建议。
@@ -63,7 +63,7 @@
 
 ## <span id="License"> 权属声明</span>
 
-<b>❀拨雪寻春（Haruhana Subs）❀</b>公开分享的字幕，均基于<b>[ AGPLv3通用协议 ](https://www.gnu.org/licenses/agpl-3.0.html)、[ CC BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)或[ CC BY-NC-ND 4.0 ](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</b>许可使用。
+<b>❀拨雪寻春（Haruhana Funsub）❀</b>公开分享的字幕，均基于<b>[ AGPLv3通用协议 ](https://www.gnu.org/licenses/agpl-3.0.html)、[ CC BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)或[ CC BY-NC-ND 4.0 ](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh)</b>许可使用。
 
 | 使用场景                                   | AGPLv3通用协议                                               | CC BY-NC-SA 4.0                                              | CC BY-NC-ND 4.0                                              |
 | :----------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
