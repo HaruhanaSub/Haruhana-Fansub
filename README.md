@@ -16,7 +16,7 @@
 - <b>❀拨雪寻春（Haruhana Fansub）❀</b>公开分享的字幕，均为<b>❀适配BD的中日双语字幕❀</b>，均为<b>❀Ass特效字幕❀</b>；
 - 为正常显示字幕内容，请事先<b>❀安装相应字体❀</b>，并使用<b>[❀基于libass字幕滤镜的播放器❀](https://github.com/clsid2/mpc-hc/releases)；</b>
 - 请您自觉基于 <b>[❀权属声明❀](#License)</b> 确认使用情境，合理合法地利用我们的字幕；
-- 欢迎您通过 <b>[电子邮件](haruhanasub@gmail.com)</b> 或 <b>[Telegram](https://t.me/Haruhana_Funsub)</b> 向我们反馈各类错误或提出意见建议。
+- 欢迎您通过 <b>[电子邮件](haruhanasub@gmail.com)</b> 或 <b>[Telegram](https://t.me/Haruhana_Fansub)</b> 向我们反馈各类错误或提出意见建议。
 
 ## <span id="Title"> 番剧索引</span>
 
@@ -27,36 +27,36 @@
 
 | 开播时间   | 日文名（罗马音）                                             | 中文名（英文名）                                             | 字幕下载                                                     |
 | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 2012年04月 | 氷菓<br>Hyouka                                               | 冰菓                                                         | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Hyouka) |
-| 2014年10月 | 四月は君の嘘<br>Shigatsu wa Kimi no Uso                      | 四月是你的谎言<br>Your Lie in April                          | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Shigatsu%20wa%20Kimi%20no%20Uso)<br/>待发布 |
-| 2016年07月 | planetarian：ちいさなほしのゆめ<br>Planetarian: Chiisana Hoshi no Yume | 星之梦系列：小小的星之梦<br>Planetarian: The Reverie of a Little Planet | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Planetarian) |
-| 2017年04月 | 終末なにしてますか? <br>Shuumatsu Nani Shitemasuka?          | 末日时在做什么?<br>What Do You Do at the End of the World?   | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Shuumatsu%20Nani%20Shitemasuka) |
-| 2017年04月 | 月がきれい<br>Tsuki ga Kirei                                 | 月色真美<br>as the moon, so beautiful.                       | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Tsuki%20ga%20Kirei) |
-| 2020年10月 | 魔王城でおやすみ<br>Maou-jou de Oyasumi                      | 在魔王城说晚安<br>Sleepy Princess in the Demon               | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Maoujou%20de%20Oyasumi) |
-| 2020年10月 | 神様になった日<br>Kamisama ni Natta Hi                       | 成神之日<br>The Day I Became a God                           | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Kamisama%20ni%20Natta%20Hi) |
-| 2021年01月 | ワンダーエッグ・プライオリティ<br>Wonder Egg Priority        | 奇蛋物语                                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Wonder%20Egg%20Priority) |
-| 2021年01月 | ホリミヤ<br>Horimiya                                         | 堀与宫村                                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Horimiya)<br/>待发布 |
-| 2021年01月 | 約束のネバーランド S2<br>Yakusoku no Neverland S2            | 约定的梦幻岛 S2<br>The Promised Neverland S2                 | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Yakusoku%20no%20Neverland%20S2)<br/>待发布 |
-| 2021年04月 | 聖女の魔力は万能です<br>Seijo no Maryoku wa Bannou Desu      | 圣女魔力无所不能<br>The Saint`s Magic Power Is Omnipotent    | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Seijo%20no%20Maryoku%20wa%20Bannou%20Desu)<br/>待发布 |
-| 2021年04月 | 不滅のあなたへ<br>Fumetsu no Anata e                         | 致不灭的你<br>To Your Eternity                               | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Fumetsu%20no%20Anata%20e)<br/>待发布 |
-| 2021年07月 | 白い砂のアクアトープ<br>Shiroi Suna no Aquatope              | 白沙的水族馆（白沙上的碧水生境）<br>The Aquatope on White Sand | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Shiroi%20Suna%20no%20Aquatope)<br/>BD未发售 |
-| 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Takt%20op.%20Destiny)<br/>BD未发售 |
-| 2021年10月 | かぎなど<br>Kaginado                                         | 键的嘉年华（键等）                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Kaginado)<br/>BD未发售 |
-| 2022年1月  | その着せ替え人形は恋をする<br>Sono Bisque Doll wa Koi o Suru | 更衣人偶坠入爱河（恋上换装娃娃）<br>My Dress-Up Darling      | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Sono%20Bisque%20Doll%20wa%20Koi%20o%20Suru)<br/>BD未发售 |
+| 2012年04月 | 氷菓<br>Hyouka                                               | 冰菓                                                         | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Hyouka) |
+| 2014年10月 | 四月は君の嘘<br>Shigatsu wa Kimi no Uso                      | 四月是你的谎言<br>Your Lie in April                          | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Shigatsu%20wa%20Kimi%20no%20Uso)<br>待发布 |
+| 2016年07月 | planetarian：ちいさなほしのゆめ<br>Planetarian: Chiisana Hoshi no Yume | 星之梦系列：小小的星之梦<br>Planetarian: The Reverie of a Little Planet | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Planetarian) |
+| 2017年04月 | 終末なにしてますか? <br>Shuumatsu Nani Shitemasuka?          | 末日时在做什么?<br>What Do You Do at the End of the World?   | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Shuumatsu%20Nani%20Shitemasuka) |
+| 2017年04月 | 月がきれい<br>Tsuki ga Kirei                                 | 月色真美<br>as the moon, so beautiful.                       | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Tsuki%20ga%20Kirei) |
+| 2020年10月 | 魔王城でおやすみ<br>Maou-jou de Oyasumi                      | 在魔王城说晚安<br>Sleepy Princess in the Demon               | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Maoujou%20de%20Oyasumi) |
+| 2020年10月 | 神様になった日<br>Kamisama ni Natta Hi                       | 成神之日<br>The Day I Became a God                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kamisama%20ni%20Natta%20Hi) |
+| 2021年01月 | ワンダーエッグ・プライオリティ<br>Wonder Egg Priority        | 奇蛋物语                                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Wonder%20Egg%20Priority) |
+| 2021年01月 | ホリミヤ<br>Horimiya                                         | 堀与宫村                                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Horimiya)<br>待发布 |
+| 2021年01月 | 約束のネバーランド S2<br>Yakusoku no Neverland S2            | 约定的梦幻岛 S2<br>The Promised Neverland S2                 | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Yakusoku%20no%20Neverland%20S2)<br>待发布 |
+| 2021年04月 | 聖女の魔力は万能です<br>Seijo no Maryoku wa Bannou Desu      | 圣女魔力无所不能<br>The Saint`s Magic Power Is Omnipotent    | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Seijo%20no%20Maryoku%20wa%20Bannou%20Desu)<br>待发布 |
+| 2021年04月 | 不滅のあなたへ<br>Fumetsu no Anata e                         | 致不灭的你<br>To Your Eternity                               | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Fumetsu%20no%20Anata%20e)<br>待发布 |
+| 2021年07月 | 白い砂のアクアトープ<br>Shiroi Suna no Aquatope              | 白沙的水族馆（白沙上的碧水生境）<br>The Aquatope on White Sand | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Shiroi%20Suna%20no%20Aquatope)<br>BD未发售 |
+| 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Takt%20op.%20Destiny)<br>BD未发售 |
+| 2021年10月 | かぎなど<br>Kaginado                                         | 键的嘉年华（键等）                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kaginado)<br>BD未发售 |
+| 2022年1月  | その着せ替え人形は恋をする<br>Sono Bisque Doll wa Koi o Suru | 更衣人偶坠入爱河（恋上换装娃娃）<br>My Dress-Up Darling      | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Sono%20Bisque%20Doll%20wa%20Koi%20o%20Suru)<br>BD未发售 |
 
 ### <span id="Movie"> 剧场版</span></span>
 
 | 公映时间   | 日文名（罗马音）                                             | 中文名（英文名）                                             | 字幕下载                                                     |
 | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 2007年02月 | 銀河鉄道の夜<br>Ginga Tetsudou no Yoru                       | 银河铁道之夜<br>The Celestial Railroad                       | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Ginga%20Tetsudou%20no%20Yoru%20~Fantasy%20Railroad%20in%20the%20Stars~) |
-| 2014年01月 | アルモニ<br>Harmonie                                         | 阿茹茉妮                                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Harmonie) |
-| 2016年01月 | ガラスの花と壊す世界<br>Glass no Hana to Kowasu Sekai        | 玻璃之花与崩坏的世界<br>Garakowa: Restore the World          | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Glass%20no%20Hana%20to%20Kowasu%20Sekai)<br/>待制作 |
-| 2016年09月 | planetarian：星の人<br>Planetarian: Hoshi no Hito            | 星之梦系列：星之人                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Planetarian) |
-| 2018年02月 | さよならの朝に約束の花をかざろう<br>Sayonara no Asa ni Yakusoku no Hana o Kazarou | 朝花夕誓：让誓约的花儿点缀起别离的晨曦<br>Maquia: When the Promised Flower Blooms | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Sayonara%20no%20Asa%20ni%20Yakusoku%20no%20Hana%20o%20Kazarou) |
-| 2020年10月 | 鬼滅の刃 無限列車編<br>Kimetsu no Yaiba: Mugen Ressha Hen    | 鬼灭之刃：无限列车篇<br>Demon Slayer the Movie: Mugen Train  | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha%20Hen)<br/>待制作 |
-| 2020年11月 | クドわふたー<br>Kud Wafter                                   | 库特Wafter                                                   | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Kud%20Wafter) |
-| 2021年01月 | planetarian：雪圏球<br>Planetarian: Snow Globe               | 星之梦系列：雪景球                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Planetarian) |
-| 2021年07月 | サイダーのように言葉が湧き上がる<br>Cider no You ni Kotoba ga Wakiagaru | 言语如苏打般涌现<br>Words Bubble Up Like Soda Pop            | [Download](https://github.com/HaruhanaSub/Haruhana-Funsub_Source/tree/main/Cider%20no%20You%20ni%20Kotoba%20ga%20Wakiagaru)<br/>BD未发售 |
+| 2007年02月 | 銀河鉄道の夜<br>Ginga Tetsudou no Yoru                       | 银河铁道之夜<br>The Celestial Railroad                       | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Ginga%20Tetsudou%20no%20Yoru%20~Fantasy%20Railroad%20in%20the%20Stars~) |
+| 2014年01月 | アルモニ<br>Harmonie                                         | 阿茹茉妮                                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Harmonie) |
+| 2016年01月 | ガラスの花と壊す世界<br>Glass no Hana to Kowasu Sekai        | 玻璃之花与崩坏的世界<br>Garakowa: Restore the World          | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Glass%20no%20Hana%20to%20Kowasu%20Sekai)<br>待制作 |
+| 2016年09月 | planetarian：星の人<br>Planetarian: Hoshi no Hito            | 星之梦系列：星之人                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Planetarian) |
+| 2018年02月 | さよならの朝に約束の花をかざろう<br>Sayonara no Asa ni Yakusoku no Hana o Kazarou | 朝花夕誓：让誓约的花儿点缀起别离的晨曦<br>Maquia: When the Promised Flower Blooms | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Sayonara%20no%20Asa%20ni%20Yakusoku%20no%20Hana%20o%20Kazarou) |
+| 2020年10月 | 鬼滅の刃 無限列車編<br>Kimetsu no Yaiba: Mugen Ressha Hen    | 鬼灭之刃：无限列车篇<br>Demon Slayer the Movie: Mugen Train  | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha%20Hen)<br>待制作 |
+| 2020年11月 | クドわふたー<br>Kud Wafter                                   | 库特Wafter                                                   | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kud%20Wafter) |
+| 2021年01月 | planetarian：雪圏球<br>Planetarian: Snow Globe               | 星之梦系列：雪景球                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Planetarian) |
+| 2021年07月 | サイダーのように言葉が湧き上がる<br>Cider no You ni Kotoba ga Wakiagaru | 言语如苏打般涌现<br>Words Bubble Up Like Soda Pop            | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Cider%20no%20You%20ni%20Kotoba%20ga%20Wakiagaru)<br>BD未发售 |
 |            |                                                              |                                                              | [Download]()                                                 |
 
 
