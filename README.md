@@ -14,7 +14,7 @@
 ## <span id="Instructions"> 使用说明</span>
 
 - <b>❀拨雪寻春（Haruhana Fansub）❀</b>公开分享的字幕，均为<b>❀适配BD的中日双语字幕❀</b>，均为<b>❀Ass特效字幕❀</b>；
-- 为正常显示字幕内容，请事先<b>❀安装相应字体❀</b>，并使用<b>[❀基于libass字幕滤镜的播放器❀](https://github.com/clsid2/mpc-hc/releases)；</b>
+- 为正常显示字幕内容，请事先<b>❀安装相应字体❀</b>，并使用<b>❀[基于libass字幕滤镜](https://github.com/Masaiki/xy-VSFilter/releases)❀的❀[播放器](https://github.com/clsid2/mpc-hc/releases)❀；</b>
 - 请您自觉基于 <b>[❀权属声明❀](#License)</b> 确认使用情境，合理合法地利用我们的字幕；
 - 欢迎您通过 <b>[电子邮件](haruhanasub@gmail.com)</b> 或 <b>[Telegram](https://t.me/Haruhana_Fansub)</b> 向我们反馈各类错误或提出意见建议。
 
@@ -43,6 +43,7 @@
 | 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Takt%20op.%20Destiny)<br>BD未发售 |
 | 2021年10月 | かぎなど<br>Kaginado                                         | 键的嘉年华（键等）                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kaginado)<br>BD未发售 |
 | 2022年1月  | その着せ替え人形は恋をする<br>Sono Bisque Doll wa Koi o Suru | 更衣人偶坠入爱河（恋上换装娃娃）<br>My Dress-Up Darling      | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Sono%20Bisque%20Doll%20wa%20Koi%20o%20Suru)<br>BD未发售 |
+| 2022年4月  | サマータイムレンダ<br>Summer Time Rendering                  | 夏日重现（夏日時光）                                         | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Summer%20Time%20Rendering)<br/>BD未发售 |
 
 ### <span id="Movie"> 剧场版</span></span>
 
@@ -56,8 +57,7 @@
 | 2020年10月 | 鬼滅の刃 無限列車編<br>Kimetsu no Yaiba: Mugen Ressha Hen    | 鬼灭之刃：无限列车篇<br>Demon Slayer the Movie: Mugen Train  | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha%20Hen)<br>待制作 |
 | 2020年11月 | クドわふたー<br>Kud Wafter                                   | 库特Wafter                                                   | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kud%20Wafter) |
 | 2021年01月 | planetarian：雪圏球<br>Planetarian: Snow Globe               | 星之梦系列：雪景球                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Planetarian) |
-| 2021年07月 | サイダーのように言葉が湧き上がる<br>Cider no You ni Kotoba ga Wakiagaru | 言语如苏打般涌现<br>Words Bubble Up Like Soda Pop            | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Cider%20no%20You%20ni%20Kotoba%20ga%20Wakiagaru)<br>BD未发售 |
-|            |                                                              |                                                              | [Download]()                                                 |
+| 2021年07月 | サイダーのように言葉が湧き上がる<br>Cider no You ni Kotoba ga Wakiagaru | 言语如苏打般涌现<br>Words Bubble Up Like Soda Pop            | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Cider%20no%20You%20ni%20Kotoba%20ga%20Wakiagaru)<br>BD未发售 |                                                |
 
 
 
