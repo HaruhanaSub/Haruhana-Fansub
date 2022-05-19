@@ -13,10 +13,10 @@
 
 ## <span id="Instructions"> 使用说明</span>
 
-- <b>❀拨雪寻春（Haruhana Fansub）❀</b>公开分享的字幕，均为<b>❀适配BD的中日双语字幕❀</b>，均为<b>❀Ass特效字幕❀</b>；
-- 为正常显示字幕内容，请事先<b>❀安装相应字体❀</b>，并使用<b>❀[基于libass字幕滤镜](https://github.com/Masaiki/xy-VSFilter/releases)❀的❀[播放器](https://github.com/clsid2/mpc-hc/releases)❀；</b>
+- <b>❀拨雪寻春（Haruhana Fansub）❀</b>公开分享的字幕，均为<b>❀适配BD的中日双语字幕❀</b>，均为<b>❀ASS特效字幕❀</b>；
+- 为正常显示字幕，请使用<b>[MPV播放器](https://github.com/hooke007/MPV_lazy/releases)</b>，或者<b>[MPC-HC播放器](https://github.com/clsid2/mpc-hc/releases)</b>挂载<b>[XySubFilter with libass字幕滤镜](https://github.com/Masaiki/xy-VSFilter/releases)</b>，并安装相应字体；
 - 请您自觉基于 <b>[❀权属声明❀](#License)</b> 确认使用情境，合理合法地利用我们的字幕；
-- 欢迎您通过 <b>[电子邮件](haruhanasub@gmail.com)</b> 或 <b>[Telegram](https://t.me/Haruhana_Fansub)</b> 向我们反馈各类错误或提出意见建议。
+- 欢迎您通过 <b>haruhanasub@gmail.com</b> 或 <b>[Telegram](https://t.me/Haruhana_Fansub)</b> 向我们反馈各类错误或提出意见建议。
 
 ## <span id="Title"> 番剧索引</span>
 
@@ -36,12 +36,10 @@
 | 2020年10月 | 神様になった日<br>Kamisama ni Natta Hi                       | 成神之日<br>The Day I Became a God                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kamisama%20ni%20Natta%20Hi) |
 | 2021年01月 | ワンダーエッグ・プライオリティ<br>Wonder Egg Priority        | 奇蛋物语                                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Wonder%20Egg%20Priority) |
 | 2021年01月 | ホリミヤ<br>Horimiya                                         | 堀与宫村                                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Horimiya)<br>待发布 |
-| 2021年01月 | 約束のネバーランド S2<br>Yakusoku no Neverland S2            | 约定的梦幻岛 S2<br>The Promised Neverland S2                 | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Yakusoku%20no%20Neverland%20S2)<br>待发布 |
 | 2021年04月 | 聖女の魔力は万能です<br>Seijo no Maryoku wa Bannou Desu      | 圣女魔力无所不能<br>The Saint`s Magic Power Is Omnipotent    | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Seijo%20no%20Maryoku%20wa%20Bannou%20Desu) |
 | 2021年04月 | 不滅のあなたへ<br>Fumetsu no Anata e                         | 致不灭的你<br>To Your Eternity                               | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Fumetsu%20no%20Anata%20e)<br>待发布 |
 | 2021年07月 | 白い砂のアクアトープ<br>Shiroi Suna no Aquatope              | 白沙的水族馆（白沙上的碧水生境）<br>The Aquatope on White Sand | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Shiroi%20Suna%20no%20Aquatope)<br>待发布 |
 | 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Takt%20op.%20Destiny)<br>BD未发售 |
-| 2021年10月 | かぎなど<br>Kaginado                                         | 键的嘉年华（键等）                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kaginado)<br>待发布 |
 | 2022年1月  | その着せ替え人形は恋をする<br>Sono Bisque Doll wa Koi o Suru | 更衣人偶坠入爱河（恋上换装娃娃）<br>My Dress-Up Darling      | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Sono%20Bisque%20Doll%20wa%20Koi%20o%20Suru)<br>BD未发售 |
 | 2022年4月  | サマータイムレンダ<br>Summer Time Rendering                  | 夏日重现（夏日時光）                                         | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Summer%20Time%20Rendering)<br/>BD未发售 |
 
