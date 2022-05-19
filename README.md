@@ -14,7 +14,7 @@
 ## <span id="Instructions"> 使用说明</span>
 
 - <b>❀拨雪寻春（Haruhana Fansub）❀</b>公开分享的字幕，均为<b>❀适配BD的中日双语字幕❀</b>，均为<b>❀ASS特效字幕❀</b>；
-- 为正常显示字幕，请使用<b>[MPV播放器](https://github.com/hooke007/MPV_lazy/releases)</b>，或者<b>[MPC-HC播放器](https://github.com/clsid2/mpc-hc/releases)</b>挂载<b>[XySubFilter with libass字幕滤镜](https://github.com/Masaiki/xy-VSFilter/releases)</b>，并安装相应字体；
+- 为正常显示字幕，请使用<b>[MPV播放器](https://github.com/hooke007/MPV_lazy/releases)</b>，或使用<b>[MPC-HC播放器](https://github.com/clsid2/mpc-hc/releases)</b>挂载<b>[XySubFilter with libass字幕滤镜](https://github.com/Masaiki/xy-VSFilter/releases)</b>，并安装相应字体；
 - 请您自觉基于 <b>[❀权属声明❀](#License)</b> 确认使用情境，合理合法地利用我们的字幕；
 - 欢迎您通过 <b>haruhanasub@gmail.com</b> 或 <b>[Telegram](https://t.me/Haruhana_Fansub)</b> 向我们反馈各类错误或提出意见建议。
 
