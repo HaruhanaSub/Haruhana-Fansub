@@ -28,7 +28,7 @@
 | 开播时间   | 日文名（罗马音）                                             | 中文名（英文名）                                             | 字幕下载                                                     |
 | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | 2012年04月 | 氷菓<br>Hyouka                                               | 冰菓                                                         | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Hyouka) |
-| 2014年10月 | 四月は君の嘘<br>Shigatsu wa Kimi no Uso                      | 四月是你的谎言<br>Your Lie in April                          | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Shigatsu%20wa%20Kimi%20no%20Uso)<br>待发布 |
+| 2014年10月 | 四月は君の嘘<br>Shigatsu wa Kimi no Uso                      | 四月是你的谎言<br>Your Lie in April                          | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Shigatsu%20wa%20Kimi%20no%20Uso) |
 | 2016年07月 | planetarian：ちいさなほしのゆめ<br>Planetarian: Chiisana Hoshi no Yume | 星之梦系列：小小的星之梦<br>Planetarian: The Reverie of a Little Planet | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Planetarian) |
 | 2017年04月 | 終末なにしてますか? <br>Shuumatsu Nani Shitemasuka?          | 末日时在做什么?<br>What Do You Do at the End of the World?   | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Shuumatsu%20Nani%20Shitemasuka) |
 | 2017年04月 | 月がきれい<br>Tsuki ga Kirei                                 | 月色真美<br>as the moon, so beautiful.                       | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Tsuki%20ga%20Kirei) |
