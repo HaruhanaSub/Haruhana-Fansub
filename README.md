@@ -40,7 +40,7 @@
 | 2021年04月 | 不滅のあなたへ<br>Fumetsu no Anata e                         | 致不灭的你<br>To Your Eternity                               | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Fumetsu%20no%20Anata%20e)<br>待发布 |
 | 2021年07月 | 白い砂のアクアトープ<br>Shiroi Suna no Aquatope              | 白沙的水族馆（白沙上的碧水生境）<br>The Aquatope on White Sand | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Shiroi%20Suna%20no%20Aquatope)<br>待发布 |
 | 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Takt%20op.%20Destiny)<br>BD未发售 |
-| 2022年1月  | その着せ替え人形は恋をする<br>Sono Bisque Doll wa Koi o Suru | 更衣人偶坠入爱河（恋上换装娃娃）<br>My Dress-Up Darling      | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Sono%20Bisque%20Doll%20wa%20Koi%20o%20Suru)<br>BD未发售 |
+| 2022年1月  | その着せ替え人形は恋をする<br>Sono Bisque Doll wa Koi o Suru | 更衣人偶坠入爱河（恋上换装娃娃）<br>My Dress-Up Darling      | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Sono%20Bisque%20Doll%20wa%20Koi%20o%20Suru) |
 | 2022年4月  | サマータイムレンダ                                           | 夏日重现（夏日時光）<br>Summer Time Rendering                | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Summer%20Time%20Rendering)<br>BD未发售 |
 
 ### <span id="Movie"> 剧场版</span></span>
