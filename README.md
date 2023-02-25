@@ -47,6 +47,7 @@
 
 | 公映时间   | 日文名（罗马音）                                             | 中文名（英文名）                                             | 字幕下载                                                     |
 | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2002年02月 | ほしのこえ<br>Hoshi no Koe                       | 星之声<br>The voices of a distant star                       | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Hoshi%20no%20Koe%EF%BC%88The%20voices%20of%20a%20distant%20star%EF%BC%89) |
 | 2007年02月 | 銀河鉄道の夜<br>Ginga Tetsudou no Yoru                       | 银河铁道之夜<br>The Celestial Railroad                       | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Ginga%20Tetsudou%20no%20Yoru%20~Fantasy%20Railroad%20in%20the%20Stars~) |
 | 2014年01月 | アルモニ                                                     | 阿茹茉妮<br>Harmonie                                         | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Harmonie) |
 | 2016年01月 | ガラスの花と壊す世界<br>Glass no Hana to Kowasu Sekai        | 玻璃之花与崩坏的世界<br>Garakowa: Restore the World          | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Glass%20no%20Hana%20to%20Kowasu%20Sekai) |
