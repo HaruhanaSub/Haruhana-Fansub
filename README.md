@@ -37,18 +37,17 @@
 | 2021年01月 | ワンダーエッグ・プライオリティ                               | 奇蛋物语<br>Wonder Egg Priority                              | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Wonder%20Egg%20Priority) |
 | 2021年01月 | ホリミヤ<br>Horimiya                                         | 堀与宫村                                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Horimiya)<br>待发布 |
 | 2021年04月 | 聖女の魔力は万能です<br>Seijo no Maryoku wa Bannou Desu      | 圣女魔力无所不能<br>The Saint`s Magic Power Is Omnipotent    | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Seijo%20no%20Maryoku%20wa%20Bannou%20Desu) |
-| 2021年04月 | 不滅のあなたへ<br>Fumetsu no Anata e                         | 致不灭的你<br>To Your Eternity                               | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Fumetsu%20no%20Anata%20e)<br>待发布 |
 | 2021年07月 | 白い砂のアクアトープ<br>Shiroi Suna no Aquatope              | 白沙的水族馆（白沙上的碧水生境）<br>The Aquatope on White Sand | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Shiroi%20Suna%20no%20Aquatope)<br>待发布 |
-| 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Takt%20op.%20Destiny)<br>BD未发售 |
+| 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Takt%20op.%20Destiny)<br>待发布 |
 | 2022年1月  | その着せ替え人形は恋をする<br>Sono Bisque Doll wa Koi o Suru | 更衣人偶坠入爱河（恋上换装娃娃）<br>My Dress-Up Darling      | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Sono%20Bisque%20Doll%20wa%20Koi%20o%20Suru) |
-| 2022年4月  | サマータイムレンダ                                           | 夏日重现（夏日時光）<br>Summer Time Rendering                | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Summer%20Time%20Rendering)<br>BD未发售 |
+| 2022年4月  | サマータイムレンダ                                           | 夏日重现（夏日時光）<br>Summer Time Rendering                | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Summer%20Time%20Rendering)<br>待发布 |
 
 ### <span id="Movie"> 剧场版</span></span>
 
 | 公映时间   | 日文名（罗马音）                                             | 中文名（英文名）                                             | 字幕下载                                                     |
 | :--------- | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| 2002年02月 | ほしのこえ<br>Hoshi no Koe                       | 星之声<br>The voices of a distant star                       | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Hoshi%20no%20Koe%EF%BC%88The%20voices%20of%20a%20distant%20star%EF%BC%89) |
-| 2004年11月 | 雲のむこう、約束の場所<br>Kumo no Mukou, Yakusoku no Basho                       | 云之彼端，约定的地方<br>The place promised in our early days                       | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kumo%20no%20Mukou%2C%20Yakusoku%20no%20Basho) |
+| 2002年02月 | ほしのこえ<br>Hoshi no Koe                                   | 星之声<br>The voices of a distant star                       | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Hoshi%20no%20Koe%EF%BC%88The%20voices%20of%20a%20distant%20star%EF%BC%89) |
+| 2004年11月 | 雲のむこう、約束の場所<br>Kumo no Mukou, Yakusoku no Basho   | 云之彼端，约定的地方<br>The place promised in our early days | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kumo%20no%20Mukou%2C%20Yakusoku%20no%20Basho) |
 | 2007年02月 | 銀河鉄道の夜<br>Ginga Tetsudou no Yoru                       | 银河铁道之夜<br>The Celestial Railroad                       | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Ginga%20Tetsudou%20no%20Yoru%20~Fantasy%20Railroad%20in%20the%20Stars~) |
 | 2014年01月 | アルモニ                                                     | 阿茹茉妮<br>Harmonie                                         | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Harmonie) |
 | 2016年01月 | ガラスの花と壊す世界<br>Glass no Hana to Kowasu Sekai        | 玻璃之花与崩坏的世界<br>Garakowa: Restore the World          | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Glass%20no%20Hana%20to%20Kowasu%20Sekai) |
@@ -58,8 +57,7 @@
 | 2020年11月 | クドわふたー                                                 | 库特Wafter<br>Kud Wafter                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kud%20Wafter) |
 | 2021年01月 | planetarian：雪圏球                                          | 星之梦系列：雪景球<br>Planetarian: Snow Globe                | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Planetarian) |
 | 2021年07月 | サイダーのように言葉が湧き上がる<br>Cider no You ni Kotoba ga Wakiagaru | 言语如苏打般涌现<br>Words Bubble Up Like Soda Pop            | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Cider%20no%20You%20ni%20Kotoba%20ga%20Wakiagaru) |
-
-
+| 2022年10月 | 君を愛したひとりの僕へ<br>Kimi wo Aishita Hitori no Boku e<br>僕が愛したすべての君へ<br>Boku ga Aishita Subete no Kimi e | 致深爱你的那个我<br>To Me, The One Who Loved You<br>致我深爱的每个你<br>To Every You I've Loved Before | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kimi%20wo%20Aishita%20Hitori%20no%20Boku%20e) |
 
 ## <span id="License"> 权属声明</span>
 
