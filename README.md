@@ -63,6 +63,7 @@
 | 2021年07月 | サイダーのように言葉が湧き上がる<br>Cider no You ni Kotoba ga Wakiagaru | 言语如苏打般涌现<br>Words Bubble Up Like Soda Pop            | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Cider%20no%20You%20ni%20Kotoba%20ga%20Wakiagaru) |
 | 2022年09月 | 夏へのトンネル, さよならの出口<br>Natsu e no Tunnel, Sayonara no Deguchi | 通往夏天的隧道，告别过去的出口<br>The Tunnel to Summer, the Exit of Goodbyes            | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Natsu%20e%20no%20Tunnel%2C%20Sayonara%20no%20Deguchi) |
 | 2022年10月 | 君を愛したひとりの僕へ<br>Kimi wo Aishita Hitori no Boku e<br>僕が愛したすべての君へ<br>Boku ga Aishita Subete no Kimi e | 致深爱你的那个我<br>To Me, The One Who Loved You<br>致我深爱的每个你<br>To Every You I've Loved Before | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kimi%20wo%20Aishita%20Hitori%20no%20Boku%20e) |
+| 2022年11月 | すずめの戸締まり<br>Suzume no Tojimari                                          | 铃芽之旅<br>Suzume           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Suzume%20no%20Tojimari)<br>WEB Ver. |
 
 ## <span id="License"> 权属声明</span>
 
