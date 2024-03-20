@@ -41,6 +41,7 @@
 | 2021年10月 | tákt op.Destiny                                              | 宿命回响：命运重奏                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Takt%20op.%20Destiny)<br>待发布 |
 | 2022年1月  | その着せ替え人形は恋をする<br>Sono Bisque Doll wa Koi o Suru | 更衣人偶坠入爱河（恋上换装娃娃）<br>My Dress-Up Darling      | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Sono%20Bisque%20Doll%20wa%20Koi%20o%20Suru) |
 | 2022年4月  | サマータイムレンダ                                           | 夏日重现（夏日時光）<br>Summer Time Rendering                | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Summer%20Time%20Rendering)<br>待发布 |
+| 2023年7月  | わたしの幸せな結婚<br>Watashi no Shiawase na Kekkon            | 我的幸福婚约<br>My Happy Marriage                | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Watashi%20no%20Shiawase%20na%20Kekkon) |
 
 ### <span id="Movie"> 剧场版</span></span>
 
