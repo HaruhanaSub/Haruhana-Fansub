@@ -17,6 +17,7 @@
 - 为正常显示字幕，请使用<b>[MPV播放器](https://github.com/hooke007/MPV_lazy/releases)</b>，或使用<b>[MPC-HC播放器](https://github.com/clsid2/mpc-hc/releases)</b>挂载<b>[XySubFilter with libass字幕滤镜](https://github.com/Masaiki/xy-VSFilter/releases)</b>，并安装相应字体；
 - 请您自觉基于 <b>[❀权属声明❀](#License)</b> 确认使用情境，合理合法地利用我们的字幕；
 - 欢迎您通过 <b>haruhanasub@gmail.com</b> 或 <b>[月夜花朝](https://qm.qq.com/q/LFOmKxHXsm)</b> 向我们反馈各类错误或提出意见建议。
+- <b>[❀拨雪寻春编年史❀](https://www.haruhana.org/about)</b>
 
 ## <span id="Title"> 番剧索引</span>
 
@@ -58,7 +59,6 @@
 | 2016年09月 | planetarian：星の人<br>Planetarian: Hoshi no Hito            | 星之梦系列：星之人                                           | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Planetarian) |
 | 2018年02月 | さよならの朝に約束の花をかざろう<br>Sayonara no Asa ni Yakusoku no Hana o Kazarou | 朝花夕誓：让誓约的花儿点缀起别离的晨曦<br>Maquia: When the Promised Flower Blooms | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Sayonara%20no%20Asa%20ni%20Yakusoku%20no%20Hana%20o%20Kazarou) |
 | 2019年07月 | 天気の子<br>Tenki no Ko    | 天气之子<br>Weathering with You  | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Tenki%20no%20Ko) |
-| 2020年10月 | 鬼滅の刃 無限列車編<br>Kimetsu no Yaiba: Mugen Ressha Hen    | 鬼灭之刃：无限列车篇<br>Demon Slayer the Movie: Mugen Train  | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kimetsu%20no%20Yaiba:%20Mugen%20Ressha%20Hen)<br>待制作 |
 | 2020年11月 | クドわふたー                                                 | 库特Wafter<br>Kud Wafter                                     | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Kud%20Wafter) |
 | 2021年01月 | planetarian：雪圏球                                          | 星之梦系列：雪景球<br>Planetarian: Snow Globe                | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Planetarian) |
 | 2021年07月 | サイダーのように言葉が湧き上がる<br>Cider no You ni Kotoba ga Wakiagaru | 言语如苏打般涌现<br>Words Bubble Up Like Soda Pop            | [Download](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/tree/main/Cider%20no%20You%20ni%20Kotoba%20ga%20Wakiagaru) |
