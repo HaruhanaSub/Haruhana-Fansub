@@ -18,6 +18,7 @@
 - 请您自觉基于 <b>[❀权属声明❀](#License)</b> 确认使用情境，合理合法地利用我们的字幕；
 - 欢迎您通过 <b>haruhanasub@gmail.com</b> 或 <b>[月夜花朝](https://qm.qq.com/q/LFOmKxHXsm)</b> 向我们反馈各类错误或提出意见建议。
 - <b>[❀拨雪寻春编年史❀](https://www.haruhana.org/about)</b>
+- <b>[❀招募启事❀](https://www.haruhana.org/join)</b>
 
 ## <span id="Title"> 番剧索引</span>
 
