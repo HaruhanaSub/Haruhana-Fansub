@@ -11,19 +11,16 @@
 ## 使用说明
 
 1. 本仓库分享的ass字幕匹配 `BDRip` 时间轴，未发行BD的作品则匹配 `WebRip` 时间轴
-
 2. 无特效的小体积字幕均直接存放于仓库，可通过 [DownGit](https://downgit.github.io/) 打包下载
-
 3. 有特效的大体积字幕打包后存放于仓库，可直接下载
-
 4. 为确保字幕正常显示，请安装相应字体，并使用 [MPV](https://github.com/hooke007/MPV_lazy/releases) 或 [MPC](https://github.com/clsid2/mpc-hc/releases) 等支持 libass 的播放器
-
    > MPC 应启用 libass：选项-字幕-默认样式：勾选「将 libass 用于 SSA/ASS 格式」
-
 5. 本组制作的字幕，如无特殊声明均基于 [ AGPLv3协议](https://www.gnu.org/licenses/agpl-3.0.html) 许可使用，详见 [权属声明](https://www.haruhana.org/licenses)
+   > 您可以：自由转载、进行修改<br>
+   > 您应当：注明来源、附带原始字幕、禁止用于商业目的<br>
+   > 如发现错误，可通过 [表单](https://wj.qq.com/s2/15281807/6a90/) 、 [Issues](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/issues) 、[qq群组](https://qm.qq.com/q/LFOmKxHXsm) 或 haruhanasub@gmail.com 进行反馈<br>
 
-   > 您可以：自由转载、进行修改
-   >
-   > 您应当：注明来源、附带原始字幕、禁止用于商业目的
-   >
-   > 如发现错误，可通过 [表单](https://wj.qq.com/s2/15281807/6a90/) 、 [Issues](https://github.com/HaruhanaSub/Haruhana-Fansub_Source/issues) 、[群组](https://qm.qq.com/q/LFOmKxHXsm) 或 haruhanasub@gmail.com 进行反馈
+## 关于我们
+
+- 我们特别希望和有意愿、有能力制作字幕的同好进行交流
+- 如果您希望加入我们，请先阅读 [招募启事](https://www.haruhana.org/join)，再通过 [qq群组](https://qm.qq.com/q/LFOmKxHXsm) 或 haruhanasub@gmail.com 联系我们
