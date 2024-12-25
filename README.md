@@ -5,8 +5,8 @@
 
 ## 译制计划
 
-- 字幕作品、译制计划请查看 [项目表](https://github.com/users/HaruhanaSub/projects/2)
-- 公开的字幕，均上传至 [Haruhana-Storage](https://github.com/HaruhanaSub/Haruhana-Storage) ，推荐从项目表访问具体的作品目录
+- 字幕作品、译制计划请查看 [项目表](https://github.com/users/HaruhanaSub/projects/2?pane=info)
+- 公开的字幕，均上传至 [字幕仓库](https://github.com/HaruhanaSub/Haruhana-Storage) ，推荐从项目表访问具体的作品目录
 
 ## 使用说明
 
@@ -22,5 +22,5 @@
 
 ## 关于我们
 
-- 我们特别希望和有意愿、有能力制作字幕的同好进行交流
+- 我们特别希望和有意愿、有能力制作字幕的同好交流合作
 - 如果您希望加入我们，请先阅读 [招募启事](https://www.haruhana.org/join)，再通过 [qq群组](https://qm.qq.com/q/LFOmKxHXsm) 或 haruhanasub@gmail.com 联系我们
