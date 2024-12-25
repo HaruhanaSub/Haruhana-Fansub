@@ -6,7 +6,7 @@
 ## 译制计划
 
 - 字幕作品、译制计划请查看 [项目表](https://github.com/users/HaruhanaSub/projects/2?pane=info)
-- 公开的字幕，均上传至 [字幕仓库](https://github.com/HaruhanaSub/Haruhana-Storage) ，推荐从项目表访问具体的作品目录
+- 公开的字幕，均上传至 [字幕仓库](https://github.com/HaruhanaSub/Haruhana-Storage?tab=readme-ov-file#%E5%AD%97%E5%B9%95%E4%BB%93%E5%BA%93) ，推荐从项目表访问具体的作品目录
 
 ## 使用说明
 
